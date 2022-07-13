@@ -1,0 +1,5 @@
+recordIndex,recordIndex2,type,name,code,technology,description,retailPrice,moreInfo
+0,0,COMPONENT,name05,ABC-012-E,technology05,description05,EUR 40.00,https://www.google.es/
+0,1,TOOL,     name01,ABC-012-A,technology01,description01,EUR 50.00,https://www.google.es/
+1,0,TOOL,     name04,ABC-012-D,technology04,description04,EUR 10.00,null
+2,0,COMPONENT,name03,ABC-012-C,technology03,description03,EUR 30.00,null

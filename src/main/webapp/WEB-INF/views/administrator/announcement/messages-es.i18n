@@ -1,0 +1,12 @@
+
+administrator.announcement.form.label.creation = Creación:
+administrator.announcement.form.label.title = Título:
+administrator.announcement.form.label.body = Cuerpo:
+administrator.announcement.form.label.flag = Bandera:
+administrator.announcement.form.label.url = Url:
+
+
+administrator.announcement.form.label.confirmation = Confirma que el anuncio es correcto
+
+administrator.announcement.form.button.create=Crear
+

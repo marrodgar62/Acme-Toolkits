@@ -1,0 +1,14 @@
+
+patron.announcement.list.label.creation = Creation
+patron.announcement.list.label.title = Title
+patron.announcement.list.label.body = Body
+patron.announcement.list.label.flag = Flag
+patron.announcement.list.label.url = Url
+
+
+patron.announcement.form.label.creation = Creation:
+patron.announcement.form.label.title = Title:
+patron.announcement.form.label.body = Body:
+patron.announcement.form.label.flag = Flag:
+patron.announcement.form.label.url = Url:
+

@@ -1,0 +1,13 @@
+inventor.announcement.list.label.creation = Creacion
+inventor.announcement.list.label.title = Titutlo
+inventor.announcement.list.label.body = Cuerpo
+inventor.announcement.list.label.flag = Bandera
+inventor.announcement.list.label.url = Url
+
+
+inventor.announcement.form.label.creation = Creacion:
+inventor.announcement.form.label.title = Titutlo:
+inventor.announcement.form.label.body = Cuerpo:
+inventor.announcement.form.label.flag = Bandera:
+inventor.announcement.form.label.url = Url:
+

@@ -1,0 +1,47 @@
+# i18n_en.messages
+#
+# Copyright (C) 2012-2021 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.administrator-dashboard.form.label.NumberOfProposedPatronages =  Number of proposed patronages:
+administrator.administrator-dashboard.form.label.NumberOfAcceptedPatronages =  Number of accepted patronages:
+administrator.administrator-dashboard.form.label.NumberOfDeniedPatronages =  Number of denied patronages:
+administrator.administrator-dashboard.form.label.NumberOfTools=  Number of tools:
+administrator.administrator-dashboard.form.label.NumberOfComponents=  Number of components: 
+
+
+administrator.administrator-dashboard.form.label.avg-sentence = Average retail price by currency 
+administrator.administrator-dashboard.form.label.deviation-sentence = Deviation retail price by currency 
+administrator.administrator-dashboard.form.label.max-sentence = Maximum retail price by currency
+administrator.administrator-dashboard.form.label.min-sentence = Minimum retail price by currency
+
+administrator.administrator-dashboard.form.label.and-technology = and technology
+administrator.administrator-dashboard.form.label.colon = :
+administrator.administrator-dashboard.form.label.componentsTitle = COMPONENTS
+administrator.administrator-dashboard.form.label.toolsTitle = TOOLS
+administrator.administrator-dashboard.form.label.patronageTitle = PATRONAGES
+administrator.administrator-dashboard.form.label.patronage-avg-sentence= Average retail price by status
+administrator.administrator-dashboard.form.label.patronage-deviation-sentence= Deviation retail price by status
+administrator.administrator-dashboard.form.label.patronage-max-sentence= Maximum retail price by status
+administrator.administrator-dashboard.form.label.patronage-min-sentence= Minimum retail price by status
+
+administrator.administrator-dashboard.form.label.nohayComponentes =    There are not components
+administrator.administrator-dashboard.form.label.nohayHerramientas=    There are not tools
+administrator.administrator-dashboard.form.label.nohayPatrocinios =	 There are not patronages
+
+administrator.administrator-dashboard.form.label.avg-title = Averages information.
+administrator.administrator-dashboard.form.label.deviationTitle= Deviations information.
+administrator.administrator-dashboard.form.label.maxTitle= Maximums information.
+administrator.administrator-dashboard.form.label.minTitle= Minimums information.
+administrator.administrator-dashboard.form.label.absoluteTitle = Number of Metrics
+
+
+
+
+
+

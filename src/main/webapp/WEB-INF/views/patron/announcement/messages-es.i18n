@@ -1,0 +1,13 @@
+patron.announcement.list.label.creation = Creacion
+patron.announcement.list.label.title = Titutlo
+patron.announcement.list.label.body = Cuerpo
+patron.announcement.list.label.flag = Bandera
+patron.announcement.list.label.url = Url
+
+
+patron.announcement.form.label.creation = Creacion:
+patron.announcement.form.label.title = Titutlo:
+patron.announcement.form.label.body = Cuerpo:
+patron.announcement.form.label.flag = Bandera:
+patron.announcement.form.label.url = Url:
+

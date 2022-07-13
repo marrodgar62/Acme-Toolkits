@@ -1,0 +1,6 @@
+patron.dashboard.form.title.general = Panel del patrón
+patron.dashboard.form.label.number-patronages = Número de patrocinios
+patron.dashboard.form.label.average-budget-patronages = Media de los presupuestos de los patrocinios
+patron.dashboard.form.label.deviation-budget-patronages = Desviación de los presupuestos de patrocinios
+patron.dashboard.form.label.minimum-budget-patronages = Presupuesto mínimo de patrocinios
+patron.dashboard.form.label.maximum-budget-patronages = Presupuesto máximo de patrocinios

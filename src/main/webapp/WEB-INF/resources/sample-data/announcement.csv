@@ -1,0 +1,5 @@
+key,creation,title,body,flag,url
+announcement-01,2022/04/19 12:23,New announcement 1,This is announcement body 1,true,https://www.google.com
+announcement-02,2019/06/20 12:23,New announcement 2,This is announcement body 2,false,https://www.google.com
+announcement-03,2018/07/10 12:23,New announcement 3,This is announcement body 3,true,null
+announcement-04,1900/01/2 12:23,New announcement 3,This is announcement body 3,true,null

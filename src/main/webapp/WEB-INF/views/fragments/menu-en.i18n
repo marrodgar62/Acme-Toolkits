@@ -1,0 +1,103 @@
+# i18n-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.menu #################################################################
+
+master.menu.home = Home
+master.menu.sign-up = Sign up
+master.menu.sign-in = Sign in
+master.menu.sign-out = Sign out
+
+# master.menu.anonymous #######################################################
+master.menu.anonymous.components.list = Components list
+master.menu.anonymous.chirps.list = Chirp List
+master.menu.anonymous.favourite-link.juagomram4 = 48123008Q: Gómez Ramírez, Juan Carlos
+master.menu.anonymous.favourite-link-marpercor8 = 49160010V: Pérez Coronel, Mario
+master.menu.anonymous.favourite-link-ramoonrb = 29516826Y: Rodriguez Bejarano, Ramón
+master.menu.anonymous.favourite-link-marrodgar62 = 77859215Y: Rodríguez García, Mario
+master.menu.anonymous.favourite-link-cargarrod12 = 49395514R: Garrido Rodríguez, Carlos
+master.menu.anonymous.favourite-link-alvuberui = 17480690T: Úbeda Ruiz, Álvaro
+master.menu.anonymous = Anonymous
+master.menu.anonymous.artefacts.list = Artefact List
+
+# master.menu.administrator ###################################################
+master.menu.administrator.components.list = Components list
+master.menu.administrator.announcements.list = Announcements list
+master.menu.administrator.administrator-dashboard = Administrator Dashboard
+
+master.menu.administrator = Administrator
+master.menu.administrator.user-accounts = User accounts
+master.menu.administrator.system-configuration = System Configuration
+master.menu.administrator.create-announcement = Create Announcement
+master.menu.administrator.populate-initial = Populate DB (initial)
+master.menu.administrator.populate-sample = Populate DB (samples)
+master.menu.administrator.shut-down = Shut down
+master.menu.administrator.artefacts.list = Artefact List
+
+# master.menu.inventor ########################################################
+
+master.menu.inventor = Inventor
+master.menu.inventor.my-toolkits = My toolkits
+master.menu.inventor.patronages.list = Patronages list
+master.menu.inventor.artefact.list = Own artefacts
+master.menu.inventor.patronages.list = My Patronages
+master.menu.inventor.announcements.list = Announcements list
+
+
+# master.menu.any ########################################################
+
+master.menu.any = Any
+master.menu.any.announcements.list = Announcement list
+master.menu.any.chirps.list = Chirps List
+master.menu.any.user-accounts = User Accounts List
+
+# master.menu.patron ########################################################
+
+master.menu.patron = Patron
+master.menu.patron.components.list = Components list
+master.menu.patron.patronages.list = My patronages 
+master.menu.patron.announcements.list = Announcements list
+master.menu.patron.dashboard = Patron dashboard
+master.menu.patron.artefacts.list = Artefact List
+master.menu.patron.announcements.list = Announcements list
+
+
+
+
+
+# master.menu.provider ########################################################
+master.menu.provider = Provider
+master.menu.provider.favourite-link = Favourite link
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumer
+master.menu.consumer.favourite-link = Favourite link
+
+# master.menu.authenticated ##########################################################
+
+master.menu.authenticated.artefacts.list = Artefact List
+
+
+# master.menu.user-account ####################################################
+master.menu.user-account.components.list = Components list
+master.menu.user-account.toolkits.list = Toolkit list
+master.menu.user-account.announcements.list = Announcements list
+
+master.menu.user-account = Account
+master.menu.user-account.general-data = General data
+master.menu.user-account.inventor = Inventor data
+master.menu.user-account.become-inventor = Become an inventor
+master.menu.user-account.patron = Patron data
+master.menu.user-account.become-patron = Become a patron
+
+master.menu.authenticated.system-configuration = System Configuration
+
+

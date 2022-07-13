@@ -1,0 +1,19 @@
+any.toolkit.list.label.code = Codigo
+any.toolkit.list.label.title = Título
+any.toolkit.list.label.description = Descripcion
+any.toolkit.list.label.assemblyNotes = Notas
+any.toolkit.list.label.link = Link
+any.toolkit.label.search = Filtrar por herramienta o componente
+any.toolkit.list.search.button = Filtrar
+
+any.toolkit.form.label.code = Codigo
+any.toolkit.form.label.title = Titulo
+any.toolkit.form.label.description = Descripcion
+any.toolkit.form.label.assemblyNotes = Notas
+any.toolkit.form.label.link = Link
+
+any.toolkit.form.button.artefact = Artefactos
+any.toolkit.form.label.price = Precio
+
+
+any.toolkit.label.search.placeholder = Nombre del artefacto

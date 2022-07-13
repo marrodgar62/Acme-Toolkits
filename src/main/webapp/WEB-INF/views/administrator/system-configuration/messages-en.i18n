@@ -1,0 +1,15 @@
+administrator.systemConfiguration.label.currency = Currency
+administrator.systemConfiguration.label.currencies = Currencies
+administrator.systemConfiguration.label.weakTerms =  Weak terms
+administrator.systemConfiguration.label.strongTerms = Strong terms
+administrator.systemConfiguration.label.weakThreshold = Weak threshold
+administrator.systemConfiguration.label.strongThreshold = Strong threshold
+
+administrator.systemConfiguration.form.button.update = Edit
+
+administrator.systemConfiguration.label.weakTermsSpanish = Weak terms on Spanish
+administrator.systemConfiguration.label.weakTermsEnglish = Weak terms on English
+
+administrator.systemConfiguration.label.strongTermsSpanish = Strong terms on Spanish
+administrator.systemConfiguration.label.strongTermsEnglish =  Strong terms on English
+administrator.system-configuration.error.spamTerm = Spam terms can not be empty

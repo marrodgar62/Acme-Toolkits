@@ -1,0 +1,4 @@
+recordIndex,creation-moment,title,author,body,email
+0,2022/04/22 12:23,,authortest,bodytest,chirp05@test.com
+1,2022/04/22 12:23,titletest,,bodytest,chirp05@test.com
+2,2022/04/22 12:23,titletest,authortest,,chirp05@test.com

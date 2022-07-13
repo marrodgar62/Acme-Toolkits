@@ -1,0 +1,14 @@
+
+inventor.patronage-report.list.label.creation-moment = Creation moment
+inventor.patronage-report.list.label.memorandum = Memorandum
+inventor.patronage-report.list.label.link = Link
+
+
+inventor.patronage-report.form.label.creation-moment = Creation moment:
+inventor.patronage-report.form.label.memorandum = Memorandum:
+inventor.patronage-report.form.label.link = Link:
+
+inventor.patronage-reports.list.button.create.patronage-report = Create Patronage Report
+
+inventor.patronage-report.form.button.confirmation= Confirmation
+inventor.patronage-report.form.button.create = Create

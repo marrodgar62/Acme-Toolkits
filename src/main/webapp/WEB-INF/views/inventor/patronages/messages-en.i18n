@@ -1,0 +1,34 @@
+
+inventor.patronages.list.label.status = Status
+inventor.patronages.list.label.code = Code
+inventor.patronages.list.label.legal-stuff = Legal Stuff
+inventor.patronages.list.label.budget = Budget
+inventor.patronages.list.label.init-period = Init Period
+inventor.patronages.list.label.final-period = Final Period
+inventor.patronages.list.label.link = link
+
+inventor.patronages.form.label.status = Status
+inventor.patronages.form.label.code = Code
+inventor.patronages.form.label.legal-stuff = Legal Stuff
+inventor.patronages.form.label.budget = Budget
+inventor.patronages.form.label.init-period = Init Period
+inventor.patronages.form.label.final-period = Final Period
+inventor.patronages.form.label.link = link
+
+inventor.patronages.patron.form.label.title = Patron information
+inventor.patronages.patron.form.label.username = Username
+inventor.patronages.patron.form.label.company = Company
+inventor.patronages.patron.form.label.link = Link
+inventor.patronages.patron.form.label.statement = Statement
+
+inventor.patronage-reports.form.button.list-mine-reports = Patronage Reports
+inventor.patronage-reports.list.button.create.patronage-report = Create Patronage Report
+
+
+inventor.patronage.form.label.money-exchange = System price
+
+inventor.patronages.form.button.accept = Accept
+inventor.patronages.form.button.denied = Denied
+inventor.patronage.form.error.status = Wrong Status
+
+inventor.patron.form.error.init-period = Patronage can only be Denied if the initial Period is before today

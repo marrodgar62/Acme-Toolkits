@@ -1,0 +1,7 @@
+key,status,code,legalStuff,budget,creationTime,initPeriod,finalPeriod,link,published,key:patron,key:inventor
+patronage-01,PROPOSED,ABC-012-A,legal stuff 1,EUR 25.00,2022/01/19 12:23,2022/02/20 15:23,2022/05/19 12:23,null,true,patron-01,inventor-01
+patronage-02,PROPOSED,ABC-012-B,legal stuff 2,EUR 55.00,2022/01/19 12:23,2022/02/20 17:23,2022/06/19 12:23,null,false,patron-02,inventor-02
+patronage-03,ACCEPTED,ABC-012-C,legal stuff 2,EUR 20.00,2022/01/19 12:23,2022/02/20 17:23,2022/07/19 12:23,null,true,patron-03,inventor-03
+patronage-04,PROPOSED,ABC-012-D,legal stuff 2,EUR 20.00,2022/01/19 12:23,2022/02/20 17:23,2022/04/19 12:23,null,false,patron-01,inventor-03
+patronage-05,ACCEPTED,ABC-012-E,legal stuff 5,EUR 80.00,2022/01/19 12:23,2022/02/20 17:23,2022/05/19 12:23,null,true,patron-01,inventor-01
+patronage-06,PROPOSED,ABC-012-Z,legal stuff 1,EUR 25.00,2023/01/19 12:23,2023/02/20 15:23,2023/05/19 12:23,null,true,patron-01,inventor-01

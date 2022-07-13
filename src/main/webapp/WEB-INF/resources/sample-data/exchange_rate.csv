@@ -1,0 +1,7 @@
+key,base_target,date,rate
+exchangerate01,"USD,EUR",2022/02/20 12:00,0.945546
+exchangerate02,"USD,GBP",2022/02/20 12:00,0.802767
+exchangerate03,"GBP,EUR",2022/02/20 12:00,1.177859
+exchangerate04,"GBP,USD",2022/02/20 12:00,1.245691
+exchangerate05,"EUR,USD",2022/02/20 12:00,1.053406
+exchangerate06,"EUR,GBP",2022/02/20 12:00,0.854411

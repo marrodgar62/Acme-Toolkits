@@ -1,0 +1,8 @@
+patron.patronage-report.list.label.sequenceNumber = Numero de secuencia
+patron.patronage-report.list.label.creationMoment = Momento de creación
+patron.patronage-report.list.label.link = Enlace
+
+patron.patronage-report.form.label.sequenceNumber = Numero de secuencia
+patron.patronage-report.form.label.creationMoment = Momento de creación
+patron.patronage-report.form.label.memorandum = Memorandum
+patron.patronage-report.form.label.link = Enlace

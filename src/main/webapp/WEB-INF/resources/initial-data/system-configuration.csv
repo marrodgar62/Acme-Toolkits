@@ -1,0 +1,2 @@
+key,currency,currencies,weak-terms,strong-terms,languageSystem,weak-threshold,strong-threshold
+system-configuration-01,EUR,EUR USD GBP,"SPANISH:atractivo,nigeria,has ganado,un millon;ENGLISH:sexy,nigeria,you’ve won,one mil-lion", "SPANISH:sexo,hardcore,viagra,cialis;ENGLISH:sex,hardcore,viagra,cialis", SPANISH, 25.00,10.00

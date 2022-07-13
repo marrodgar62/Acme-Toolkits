@@ -1,0 +1,16 @@
+
+authenticated.announcement.list.label.creation = Creation
+authenticated.announcement.list.label.title = Title
+authenticated.announcement.list.label.body = Body
+authenticated.announcement.list.label.flag = Flag
+authenticated.announcement.list.label.url = Url
+
+
+authenticated.announcement.form.label.creation = Creation:
+authenticated.announcement.form.label.title = Title:
+authenticated.announcement.form.label.body = Body:
+authenticated.announcement.form.label.flag = Flag:
+authenticated.announcement.form.label.url = Url:
+
+
+

@@ -1,0 +1,104 @@
+# i18n-es.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+﻿# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+master.menu.anonymous.components.list = Lista de componentes
+master.menu.anonymous.chirps.list = Lista de Mensajes
+master.menu.anonymous.artefacts.list = Lista de Artefactos
+
+
+master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.favourite-link.juagomram4 = 48123008Q: Gómez Ramírez, Juan Carlos
+master.menu.anonymous.favourite-link-marpercor8 = 49160010V: Pérez Coronel, Mario
+master.menu.anonymous.favourite-link-ramoonrb = 29516826Y: Rodriguez Bejarano, Ramón
+master.menu.anonymous.favourite-link-marrodgar62 = 77859215Y: Rodríguez García, Mario
+master.menu.anonymous.favourite-link-cargarrod12 = 49395514R: Garrido Rodríguez, Carlos
+master.menu.anonymous.favourite-link-alvuberui = 17480690T: Úbeda Ruiz, Álvaro
+master.menu.anonymous = Anónimo
+
+# master.menu.administrator ###################################################
+master.menu.administrator.components.list = Lista de componentes
+master.menu.administrator.administrator-dashboard = Panel administración
+master.menu.administrator.artefacts.list = Lista de Artefactos
+master.menu.administrator.announcements.list = Lista de anuncios
+
+master.menu.administrator = Administrador
+master.menu.administrator.dashboard = Panel de indicadores
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.system-configuration = Configuración del sistema
+master.menu.administrator.create-announcement = Crear anuncio
+master.menu.administrator.populate-initial = Poblar BD (inicial)
+master.menu.administrator.populate-sample = Poblar BD (ejemplos)
+master.menu.administrator.shut-down = Parar el sistema
+
+# master.menu.inventor ########################################################
+master.menu.inventor = Inventor
+master.menu.inventor.artefacts.list = Lista de Artefactos
+master.menu.inventor.my-toolkits = Mis kits herramientas
+master.menu.inventor.patronages.list = Lista de patrocinios
+master.menu.inventor.artefact.list = Artefactos propios
+master.menu.inventor.patronages.list = Mis patrocinios
+master.menu.inventor.announcements.list = Lista de anuncios
+
+
+# master.menu.patron ########################################################
+master.menu.patron = Patrocinador
+master.menu.patron.artefacts.list = Lista de Artefactos
+master.menu.patron.components.list = Lista de componentes
+master.menu.patron.patronages.list = Mis Patrocinios
+master.menu.patron.dashboard = Panel del patrón
+master.menu.patron.announcements.list = Lista de anuncios
+
+
+# master.menu.any ########################################################
+master.menu.any = Cualquiera
+master.menu.any.announcements.list = Lista de anuncios
+master.menu.any.chirps.list = Lista de Mensajes
+
+
+
+# master.menu.any ########################################################
+master.menu.any = Cualquiera
+master.menu.any.user-accounts = Lista de cuentas de usuario
+
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Proveedor
+master.menu.provider.favourite-link = Enlace favorito
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumidor
+master.menu.consumer.favourite-link = Enlace favorito
+
+# master.menu.authenticated ##########################################################
+
+master.menu.authenticated.artefacts.list = Lista de artefactos
+
+# master.menu.user-account ####################################################
+master.menu.user-account.components.list = Lista de componentes
+master.menu.user-account.toolkits.list = Lista de kits de herramientas
+master.menu.user-account.announcements.list = Lista de anuncios
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.inventor = Datos del inventor
+master.menu.user-account.become-inventor = Hazte inventor
+master.menu.user-account.patron = Datos del patron
+master.menu.user-account.become-patron = Hazte patron
+master.menu.authenticated.system-configuration = Configuracion del Sistema

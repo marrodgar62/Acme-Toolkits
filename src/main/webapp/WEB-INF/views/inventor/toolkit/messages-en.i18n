@@ -1,0 +1,44 @@
+
+inventor.toolkit.list.label.code = Code
+inventor.toolkit.list.label.title = Title
+inventor.toolkit.list.label.description = Description 
+inventor.toolkit.list.label.assemblyNotes = Assembly Notes
+inventor.toolkit.list.label.link = Link
+inventor.toolkit.list.label.published = Published
+
+inventor.toolkit.form.label.code = Code
+inventor.toolkit.form.label.title = Title
+inventor.toolkit.form.label.description = Description 
+inventor.toolkit.form.label.assemblyNotes = Assembly Notes
+inventor.toolkit.form.label.link = Link
+inventor.toolkit.form.label.published = Published
+
+inventor.toolkit.form.label.price = Total price
+authenticated.toolkit.form.label.price = Price
+
+inventor.toolkit.form.button.toolkits-artefact = Artefacts
+
+
+
+inventor.toolkit.form.button.update = Update
+inventor.toolkit.form.button.update-artefact = Update artefacts
+
+inventor.toolkit.form.button.create.toolkit = Create toolkit
+inventor.toolkit.form.label.quantity = Quantity
+inventor.toolkit.form.label.new.artefact = Select a artefact
+
+inventor.toolkit.form.empty.list = There are any artefact for this toolkit
+inventor.toolkit.form.submit.create= Create
+inventor.toolkit.form.submit.update = Update
+inventor.toolkit.form.submit.delete = Delete
+
+inventor.toolkit.form.submit.publish = Publish
+
+
+inventor.toolkit.form.label.code.duplicate.error = This code is already used
+inventor.toolkit.form.label.quantity.error = Quantity not valid. Must be greater than 0
+inventor.toolkit.published.error.artefacts = This toolkit can not be published without artefacts
+
+inventor.toolkit.form.label.quantity.tool.error = Quantity invalid. Tool only can have one, component 0 or more
+
+inventor.toolkit.form.label.quantity.string.error = You must write a number

@@ -1,0 +1,34 @@
+inventor.artefact.list.label.type = Type
+inventor.artefact.list.label.name = Name
+inventor.artefact.list.label.code = Code
+inventor.artefact.list.label.technology = Technology
+inventor.artefact.list.label.retail-price = Retail price
+inventor.artefact.list.label.published = Published
+inventor.artefact.list.button.create = Create
+inventor.artefact.list.label.quantity = Quantity
+
+inventor.artefact.form.label.type = Type
+inventor.artefact.form.label.name = Name
+inventor.artefact.form.label.code = Code
+inventor.artefact.form.label.technology = Technology
+inventor.artefact.form.label.description = Description
+inventor.artefact.form.label.retail-price = Retail price
+inventor.artefact.form.label.more-info = More info
+inventor.artefact.form.button.artefacts = Artefacts
+inventor.artefact.form.button.update = Update
+inventor.artefact.form.button.delete = Delete
+inventor.artefact.form.button.publish = Publish
+inventor.artefact.form.button.create = Create
+
+
+inventor.artefact.list.button.component = Components
+inventor.artefact.list.button.tool = Tools
+
+
+inventor.artefact.form.button.create.toolkit = Create toolkit by this artefact
+
+inventor.artefact.form.label.money-exchange = System price
+
+inventor.artefact.error.duplicated = Code duplicated
+inventor.artefact.form.error.negative-salary = Not negative amount is posible
+

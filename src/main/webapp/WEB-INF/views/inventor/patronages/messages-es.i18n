@@ -1,0 +1,36 @@
+
+inventor.patronages.list.label.status = Estado
+inventor.patronages.list.label.code = Código
+inventor.patronages.list.label.legal-stuff = Asuntos legales
+inventor.patronages.list.label.budget = Presupuesto
+
+
+
+inventor.patronages.form.label.status = Estado
+inventor.patronages.form.label.code = Código
+inventor.patronages.form.label.legal-stuff = Asuntos legales
+inventor.patronages.form.label.budget = Presupuesto
+inventor.patronages.form.label.init-period = Periodo inicial
+inventor.patronages.form.label.final-period = Periodo final
+inventor.patronages.form.label.link = link
+
+
+inventor.patronages.patron.form.label.title = Datos del patrocinador
+inventor.patronages.patron.form.label.username = Usuario
+inventor.patronages.patron.form.label.company = Empresa
+inventor.patronages.patron.form.label.link = Link
+inventor.patronages.patron.form.label.statement = Statement
+
+inventor.patronage-reports.form.button.list-mine-reports = Reportes de Patrocinios
+inventor.patronage-reports.list.button.create.patronage-report = Crear Reporte de Patrocinio
+
+
+inventor.patronage.form.label.money-exchange = Precio del sistema
+
+inventor.patronages.form.button.accept = Aceptar
+inventor.patronages.form.button.denied = Rechazar
+inventor.patronage.form.error.status = Estado Incorrecto
+
+
+
+inventor.patron.form.error.init-period = Un Patrocinio solo puede ser Rechazado si la fecha de inicio es anterior a hoy

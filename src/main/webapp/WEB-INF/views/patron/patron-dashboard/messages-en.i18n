@@ -1,0 +1,6 @@
+patron.dashboard.form.title.general = Patron dashboard
+patron.dashboard.form.label.number-patronages = Number of patronages
+patron.dashboard.form.label.average-budget-patronages = Average budget of patronages
+patron.dashboard.form.label.deviation-budget-patronages = Deviation budget of patronages
+patron.dashboard.form.label.minimum-budget-patronages = Minimum budget of patronages
+patron.dashboard.form.label.maximum-budget-patronages = Maximum budget of patronages

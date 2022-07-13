@@ -1,0 +1,46 @@
+patron.patronage.form.label.code = Code
+patron.patronage.form.label.status = Status
+patron.patronage.form.label.initPeriod = Initial Date
+patron.patronage.form.label.finalPeriod = End Date
+patron.patronage.form.label.budget = Budget
+patron.patronage.form.label.legalStuff = Legal Stuff
+patron.patronage.form.label.link = Link
+patron.patronage.form.label.username = Username
+patron.patronage.form.label.company = Company
+patron.patronage.form.label.statement = Statement
+patron.patronage.form.label.inventor-link = Inventor
+patron.patronage-reports.form.button.list-reports = Patronage Reports
+
+patron.patronages.list.label.code = Code
+patron.patronages.list.label.status = Status
+patron.patronages.list.label.legalStuff = Legal Stuff
+patron.patronages.list.label.budget = Budget
+patron.patronages.list.label.username = Inventor 
+patron.patronages.list.label.published = Published
+
+
+patron.patronage.form.button.update = Update Patronage
+patron.patronage.form.button.create = Create Patronage
+patron.patronage.form.button.delete = Delete Patronage
+patron.patronage.form.button.publish = Publish Patronage
+
+patron.patronages.list.button.create = Create Patronage
+
+patron.patronages.form.error.duplicated-code = This code is already in use.
+
+patron.patronages.form.error.budget-negative = Invalid negative valor.
+
+patron.patronages.form.error.initPeriod-too-close = Period error. It must be at least 1 month long.
+
+patron.patronages.form.error.finalPeriod-too-close =  Period error. It must be at least 1 month long.
+
+patron.patronage.form.label.money-exchange = System price
+
+patron.patronages.form.error.currency-not-exist = Invalid Currency
+
+patron.patronages.inventor.form.label.title = Inventor Data
+patron.patronages.inventor.form.label.username = Username
+patron.patronages.inventor.form.label.company = Company
+patron.patronages.inventor.form.label.link = Link
+patron.patronages.inventor.form.label.statement = Statement
+patron.patronage.form.label.data = Inventor 

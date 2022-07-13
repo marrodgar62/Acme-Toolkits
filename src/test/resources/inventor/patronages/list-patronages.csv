@@ -1,0 +1,4 @@
+recordIndex,status,code,legalStuff,budget,initPeriod,finalPeriod,link,patronUsername,patronCompany,patronLink,patronStatement
+0,PROPOSED,ABC-012-A,legal stuff 1,EUR 25.00,2022/02/20 15:23,2022/05/19 12:23,,patron1,"Macarena, Inc.",https://www.linkedin.com,This is a example statement
+1,ACCEPTED,ABC-012-E,legal stuff 5,EUR 80.00,2022/02/20 17:23,2022/05/19 12:23,,patron1,"Macarena, Inc.",https://www.linkedin.com,This is a example statement
+2,PROPOSED,ABC-012-Z,legal stuff 1,EUR 25.00,2023/02/20 15:23,2023/05/19 12:23,,patron1,"Macarena, Inc.",https://www.linkedin.com,This is a example statement

@@ -1,0 +1,16 @@
+administrator.systemConfiguration.label.currency = Moneda
+administrator.systemConfiguration.label.currencies = Monedas
+administrator.systemConfiguration.label.weakTerms =  Palabras débiles
+administrator.systemConfiguration.label.strongTerms = Palabras fuertes
+administrator.systemConfiguration.label.weakThreshold = Umbral débil
+administrator.systemConfiguration.label.strongThreshold = Umbral fuerte
+
+administrator.systemConfiguration.form.button.update = Editar
+
+administrator.systemConfiguration.label.weakTermsSpanish = Palabras débiles en Español
+administrator.systemConfiguration.label.weakTermsEnglish = Palabras débiles en Inglés
+
+administrator.systemConfiguration.label.strongTermsSpanish = Palabras fuertes en Español
+administrator.systemConfiguration.label.strongTermsEnglish = Palabras fuertes en Inglés
+
+administrator.system-configuration.error.spamTerm = Los términos de spam no pueden estar vacios

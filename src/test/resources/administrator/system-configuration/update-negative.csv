@@ -1,0 +1,6 @@
+recordIndex,currency,currencies,weak-threshold,strong-threshold
+0,ads,EUR USD GBP, 75.00,20.00
+1,ads,, 75.00,20.00
+2,,EUR USD GBP, 75.00,20.00
+3,ads,EUR USD GBP, 105.00,20.00
+4,ads,EUR USD GBP, 75.00,200.00

@@ -1,0 +1,13 @@
+
+
+administrator.announcement.form.label.creation = Creation:
+administrator.announcement.form.label.title = Title:
+administrator.announcement.form.label.body = Body:
+administrator.announcement.form.label.flag = Flag:
+administrator.announcement.form.label.url = Url:
+
+
+administrator.announcement.form.label.confirmation = Confirm that the announcement is correct
+
+administrator.announcement.form.button.create= Create
+

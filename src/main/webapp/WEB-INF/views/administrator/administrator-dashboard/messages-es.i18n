@@ -1,0 +1,49 @@
+# i18n_es.messages
+#
+# Copyright (C) 2012-2021 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+administrator.administrator-dashboard.form.label.and-status = y estado
+administrator.administrator-dashboard.form.label.and-technology= y tecnología
+administrator.administrator-dashboard.form.label.colon = :
+
+administrator.administrator-dashboard.form.label.componentsTitle = COMPONENTES
+administrator.administrator-dashboard.form.label.toolsTitle = HERRAMIENTAS
+administrator.administrator-dashboard.form.label.patronageTitle = PATROCINIOS
+
+administrator.administrator-dashboard.form.label.NumberOfProposedPatronages =  Patrocinios propuestos:
+administrator.administrator-dashboard.form.label.NumberOfAcceptedPatronages = Patrocinios aceptados:
+administrator.administrator-dashboard.form.label.NumberOfDeniedPatronages =  Patrocinios rechazados:
+administrator.administrator-dashboard.form.label.NumberOfTools= Número de herramientas: 
+administrator.administrator-dashboard.form.label.NumberOfComponents= Número de compomentes: 
+
+administrator.administrator-dashboard.form.label.avg-sentence = Presupuesto medio del presupuesto por divisa 
+administrator.administrator-dashboard.form.label.deviation-sentence = Desviación típica del presupuesto por divisa 
+administrator.administrator-dashboard.form.label.max-sentence = Presupuesto máximo por divisa
+administrator.administrator-dashboard.form.label.min-sentence = Presupuesto mínimo por divisa
+
+administrator.administrator-dashboard.form.label.and-technology = y tecnologia
+administrator.administrator-dashboard.form.label.colon = :
+administrator.administrator-dashboard.form.label.nohayComponentes=	No hay componentes
+administrator.administrator-dashboard.form.label.nohayHerramientas=	No hay herramientas 
+administrator.administrator-dashboard.form.label.nohayPatrocinios=	No hay patrocinios 
+
+
+administrator.administrator-dashboard.form.label.avg-title = Información de las medias.
+administrator.administrator-dashboard.form.label.deviationTitle= Información de las desviaciones típicas.
+administrator.administrator-dashboard.form.label.maxTitle= Información de los máximos.
+administrator.administrator-dashboard.form.label.minTitle= Información de los mínimos.
+administrator.administrator-dashboard.form.label.absoluteTitle = Métricas totales.
+
+administrator.administrator-dashboard.form.label.patronage-avg-sentence= Presupuesto medio del precio de venta por estado
+administrator.administrator-dashboard.form.label.patronage-deviation-sentence= Desviación típica del precio de venta por estado.
+administrator.administrator-dashboard.form.label.patronage-max-sentence= Máximo precio de venta por estado
+administrator.administrator-dashboard.form.label.patronage-min-sentence= Mínimo precio de venta por estado
+
+
+
+

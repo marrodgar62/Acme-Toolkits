@@ -1,0 +1,45 @@
+inventor.toolkit.list.label.code = Código
+inventor.toolkit.list.label.title = Título
+inventor.toolkit.list.label.description = Descripción 
+inventor.toolkit.list.label.assemblyNotes = Notas de montaje
+inventor.toolkit.list.label.link = Link
+inventor.toolkit.list.label.published = Publicado
+
+inventor.toolkit.form.label.code = Código
+inventor.toolkit.form.label.title = Título
+inventor.toolkit.form.label.description = Descripción 
+inventor.toolkit.form.label.assemblyNotes = Notas de montaje
+inventor.toolkit.form.label.link = Link
+inventor.toolkit.form.label.published = Publicado
+
+inventor.toolkit.form.label.price = Precio total
+authenticated.toolkit.form.label.price = Precio
+
+
+
+inventor.toolkit.form.button.toolkits-artefact = Artefactos
+
+
+
+inventor.toolkit.form.button.update = Actualizar
+inventor.toolkit.form.button.update-artefact = Actualizar artefactos
+
+inventor.toolkit.form.button.create.toolkit = Crear kit herramienta
+inventor.toolkit.form.label.quantity = Cantidad
+inventor.toolkit.form.label.new.artefact = Seleccion un artefacto
+
+inventor.toolkit.form.empty.list = No hay ningun artefacto para esta caja de herramientas
+inventor.toolkit.form.submit.create= Crear
+inventor.toolkit.form.submit.update = Actualizar
+inventor.toolkit.form.submit.delete = Eliminar
+
+inventor.toolkit.form.submit.publish = Publicar
+
+inventor.toolkit.form.label.code.duplicate.error = Este codigo ya ha sido utilizado
+inventor.toolkit.form.label.quantity.error = Cantidad no válida. Tiene que ser mayor a 0
+inventor.toolkit.published.error.artefacts = Esta caja de herramientas no puede ser publicada sin artefactos
+
+
+inventor.toolkit.form.label.quantity.tool.error = Cantidad inválida, herramientas solo puede tener cantidad 1, componente cantidad positiva
+
+inventor.toolkit.form.label.quantity.string.error = Debes escribir un número

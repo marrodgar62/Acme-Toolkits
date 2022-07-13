@@ -1,0 +1,6 @@
+key,code,title,description,assembly-notes,link,published,key:inventor
+toolkit-01,AAA-123-A, New title 1, New description 1, This is assembly notes 1, https://www.google.es,true,inventor-01
+toolkit-02,ABB-321-A, New title 2, New description 2, This is assembly notes 2, https://www.google.com,true,inventor-01
+toolkit-03,ABC-123-A, New title 3, New description 3, This is assembly notes 3,null,true,inventor-03
+toolkit-04,ABD-123-A, New title 4, New description 4, This is assembly notes 4,null,true,inventor-03
+toolkit-05,ABF-123-A, New title 5, New description 5, This is assembly notes 5,null,false,inventor-03

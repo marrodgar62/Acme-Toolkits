@@ -1,0 +1,47 @@
+patron.patronage.form.label.code = Código
+patron.patronage.form.label.status = Estado
+patron.patronage.form.label.initPeriod = Fecha de Inicio
+patron.patronage.form.label.finalPeriod = Fecha de Fin
+patron.patronage.form.label.budget = Presupuesto
+patron.patronage.form.label.legalStuff = Cosas Legales
+patron.patronage.form.label.link = Enlace
+patron.patronage.form.label.username = Nombre de Inventor
+patron.patronage.form.label.company = Compañía
+patron.patronage.form.label.statement = Declaración
+patron.patronage.form.label.inventor-link = Inventor
+patron.patronage-reports.form.button.list-reports = Reportes de Patrocinios
+
+
+patron.patronages.list.label.code = Código
+patron.patronages.list.label.status = Estado
+patron.patronages.list.label.legalStuff = Cosas Legales
+patron.patronages.list.label.budget = Presupuesto
+patron.patronages.list.label.username = Inventor 
+patron.patronages.list.label.published = Publicado
+
+patron.patronage.form.button.update = Actualizar Patrocinio
+patron.patronage.form.button.create = Crear Patrocinio
+patron.patronage.form.button.delete = Borrar Patrocinio
+patron.patronage.form.button.publish = Publicar Patrocinio
+
+patron.patronages.list.button.create = Crear Patrocinio
+
+patron.patronages.form.error.duplicated-code = Este código ya ha sido utilizado
+
+patron.patronages.form.error.budget-negative = Valor negativo inválido
+
+patron.patronages.form.error.initPeriod-too-close = Error en el periodo, debe ser de al menos 1 mes de duración.
+
+patron.patronages.form.error.finalPeriod-too-close = Error en el periodo, debe ser de al menos 1 mes de duración.
+
+
+patron.patronages.form.error.currency-not-exist = Moneda Invalida
+
+patron.patronage.form.label.money-exchange = Precio del sistema
+
+patron.patronages.inventor.form.label.title = Datos del Inventor
+patron.patronages.inventor.form.label.username = Nombre de Usuario
+patron.patronages.inventor.form.label.company = Compañia
+patron.patronages.inventor.form.label.link = Link
+patron.patronages.inventor.form.label.statement = Statement
+patron.patronage.form.label.data = Inventor

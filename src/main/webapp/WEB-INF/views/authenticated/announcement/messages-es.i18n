@@ -1,0 +1,14 @@
+authenticated.announcement.list.label.creation = Creación
+authenticated.announcement.list.label.title = Título
+authenticated.announcement.list.label.body = Cuerpo
+authenticated.announcement.list.label.flag = Bandera
+authenticated.announcement.list.label.url = Url
+
+
+authenticated.announcement.form.label.creation = Creación:
+authenticated.announcement.form.label.title = Título:
+authenticated.announcement.form.label.body = Cuerpo:
+authenticated.announcement.form.label.flag = Bandera:
+authenticated.announcement.form.label.url = Url:
+
+

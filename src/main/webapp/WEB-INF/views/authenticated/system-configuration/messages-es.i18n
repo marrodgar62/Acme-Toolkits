@@ -1,0 +1,3 @@
+authenticated.systemconfiguration.form.label.currencies = Divisas Aceptadas
+authenticated.systemconfiguration.form.label.currency = Divisa del Sistema
+authenticated.systemconfiguration.form.button.exchange = Cambio de Divisa

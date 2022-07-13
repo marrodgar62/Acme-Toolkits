@@ -1,0 +1,23 @@
+
+any.artefact.list.label.type = Type
+any.artefact.list.label.name = Name
+any.artefact.list.label.code = Code
+any.artefact.list.label.technology = Technology
+any.artefact.list.label.description = Description
+any.artefact.list.label.retail-price = Retail price
+any.artefact.list.label.more-info = More info
+any.artefact.form.label.published = Published
+
+any.artefact.form.label.type = Type:
+any.artefact.form.label.name = Name:
+any.artefact.form.label.code = Code:
+any.artefact.form.label.technology = Technology:
+any.artefact.form.label.description = Description:
+any.artefact.form.label.retail-price = Retail price:
+any.artefact.form.label.more-info = More info:
+
+any.artefact.list.button.component = Components
+any.artefact.list.button.tool = Tools
+
+
+any.artefact.form.label.money-exchange = System money

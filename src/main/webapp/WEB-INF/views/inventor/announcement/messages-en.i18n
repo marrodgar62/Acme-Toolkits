@@ -1,0 +1,14 @@
+
+inventor.announcement.list.label.creation = Creation
+inventor.announcement.list.label.title = Title
+inventor.announcement.list.label.body = Body
+inventor.announcement.list.label.flag = Flag
+inventor.announcement.list.label.url = Url
+
+
+inventor.announcement.form.label.creation = Creation:
+inventor.announcement.form.label.title = Title:
+inventor.announcement.form.label.body = Body:
+inventor.announcement.form.label.flag = Flag:
+inventor.announcement.form.label.url = Url:
+

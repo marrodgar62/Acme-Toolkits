@@ -1,0 +1,3 @@
+authenticated.systemconfiguration.form.label.currencies = Acepted Currencies
+authenticated.systemconfiguration.form.label.currency = System Currency
+authenticated.systemconfiguration.form.button.exchange = Money Exchange

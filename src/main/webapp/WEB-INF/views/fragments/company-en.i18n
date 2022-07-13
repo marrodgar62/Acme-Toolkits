@@ -1,0 +1,19 @@
+# company-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+master.company.title = The company
+master.company.text = \
+		E7.02, Inc. is responsible for carrying out \
+		software development work located in Seville.
+master.company.name = E7.02, Inc.
+master.company.address = 11 Granate, Seville, Spain
+master.company.phone = +34 675 876 322
+master.company.email = alvuberui@alum.us.es
+
